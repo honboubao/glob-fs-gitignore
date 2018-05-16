@@ -26,7 +26,7 @@
   "dependencies": {
     "findup-sync": "^1.0.0",
     "micromatch": "^2.3.11",
-    "parse-gitignore": "^0.2.0"
+    "parse-gitignore": "github:honboubao/parse-gitignore"
   },
   "devDependencies": {
     "glob-fs": "^0.1.3",
